@@ -1,0 +1,29 @@
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.Properties.Resources.resources
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Csharp\MultiMediaTech\MultiMediaTech\bin\Debug\MultiMediaTech.exe
+D:\Csharp\MultiMediaTech\MultiMediaTech\bin\Debug\MultiMediaTech.pdb
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.Form1.resources
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.exe
+D:\Csharp\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.pdb
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.exe
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.pdb
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\bin\Debug\MultiMediaTech.exe
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\bin\Debug\MultiMediaTech.pdb
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.Form1.resources
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.Properties.Resources.resources
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.exe
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.pdb
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\bin\Debug\MultiMediaTech.exe
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\bin\Debug\MultiMediaTech.pdb
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.Form1.resources
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.Properties.Resources.resources
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Git\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\school\dropbox\1112\MMT Projecten\pbaict_1112_MMT_simon.poppe\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.exe
+D:\school\dropbox\1112\MMT Projecten\pbaict_1112_MMT_simon.poppe\bitmapmanipulatie\Code-sources\MultiMediaTech\MultiMediaTech\obj\x86\Debug\MultiMediaTech.pdb

@@ -1,0 +1,18 @@
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\bin\Debug\waveShifter.exe
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\bin\Debug\waveShifter.pdb
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\waveShifter.Form1.resources
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\waveShifter.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\waveShifter.exe
+c:\users\simon\documents\visual studio 2010\Projects\waveShifter\waveShifter\obj\x86\Debug\waveShifter.pdb
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\waveShifter.exe
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\waveShifter.pdb
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\bin\Debug\waveShifter.exe
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\bin\Debug\waveShifter.pdb
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\waveShifter.Form1.resources
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\waveShifter.Properties.Resources.resources
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Dropbox\herexamens\waveShifter\waveShifter\obj\x86\Debug\GenerateResource.write.1.tlog

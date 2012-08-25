@@ -1,0 +1,5 @@
+Verslag kon uitgebreider
+RGB oke
+invert OK
+GUI zeer goed. Progressbar ++
+Structuur code kan beter. niet alles in 1 klasse gooien
